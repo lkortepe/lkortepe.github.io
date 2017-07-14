@@ -141,6 +141,7 @@ a:hover {
   display: table-cell;
   vertical-align: middle;
   width: 100%;
+  
 }
 
 .hero-brand {
@@ -150,6 +151,13 @@ a:hover {
 
 .hero-img{
 	width: 30%;
+}
+
+.hero-img2{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	
 }
 
 .hero-brand:hover {
